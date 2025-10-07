@@ -82,7 +82,6 @@ venv.bak/
 *.swp
 *.swo
 *.swn
-*.swp
 
 # Type checkers
 .mypy_cache/
