@@ -6,8 +6,11 @@ Funny project to discover Python by building a playful API with Django.
 
 Create your .env file first (the file is ignored by git)
 
+Create you virtual environment:
+`python -m venv venv`
+
 Then run the project commands:
-`source .venv/bin/activate`
+`source venv/bin/activate`
 `python -m pip install djangorestframework`
 `python manage.py makemigrations`
 `python manage.py migrate`
